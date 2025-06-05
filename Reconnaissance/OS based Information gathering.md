@@ -1,0 +1,25 @@
+# This is the informaion gathering technique using OS like kali linux:
+
+- Within LAN,
+  - NetDiscover. Usage: `netdiscover -r <IP_address>`
+- Out of LAN,
+  - curl
+  - whatweb
+  - dnsenum
+  - dnsrecon
+  - fierce
+  - lbd
+  - maltego
+- dnsenum / dnsrecon:
+  - Gives more details about the target, and also used to do zone transfer attack
+- fierce:
+  - This tool runs more tests against target to retrieve more details
+- LBD:
+  - LBD -> Load Balancer Detector
+  - Used to detect whether the load balancer is being used or not
+  - If they use any load balancer, assume they have bigger infrastructure and have firewall
+- Maltego:
+  - This is a well known OSINT tool, can be able to gather almost all information about the target in one place
+  - The output is like tree like structure so we can get a better view at what relates to what
+- With mobile,
+  - Using **Fing** app installed in playstore

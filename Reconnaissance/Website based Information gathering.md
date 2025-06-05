@@ -1,0 +1,27 @@
+# Website based information gathering can done for additional gathering of the details
+
+- whoislookup:
+  - To find the who, where, when properties of the target.
+  - There are many number of website is there as a tool, one of the tool is whois.domaintools.com
+- archive.org:
+  - This is a like a way back machines.
+  - We can find the older versions of the websites, as it takes the snapshots of every websites.
+- Technical information gathering websites:
+  - Basic information gathering,
+    - _securitytrails.com_
+    - _sitereport.netcraft.com_
+    - _builtwith.com_
+    - _dnsqueries.com_
+    - _mxtoolbox.com_ -> mail related information
+  - Advance information gathering,
+    - _dnsdumpster.com_
+    - _virustotal.com_
+  - what are supposed to get,
+    - server info
+    - OS info
+    - CMS
+    - underlying technologies (php, java, or something)
+    - database
+    - subdomains
+- hackertarget.com:
+  - Website used for doing zone transfer attack
