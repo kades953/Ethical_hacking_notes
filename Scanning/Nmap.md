@@ -1,5 +1,6 @@
 # What is Nmap?
 
+Nmap or Network Mapper is a tool to scan a device, such that we will get to know, how many ports are opened, which version is running, and so on.  
 If we run Nmap within LAN, it will give you all the hosts connected to the device.  
 But if we run Nmap out-of-LAN, it will not give you the connected hosts, instead of that, it will give you the details of the device assigned with the IP address. And that is called spear scanning.
 

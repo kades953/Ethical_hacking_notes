@@ -17,3 +17,6 @@
 6. SPF:
    - The Sender Policy Framework, is an authentication method used in cybersecurity to verify that incoming emails are sent from authorized servers for a specific domain. This helps prevent email spoofing and phishing attacks, enhancing the security and reputation of the domain.
    - If it is not configured, we can perform some email spoofing attack.
+7. ARP table:
+   - It is a table that store the IP address and its corresponding MAC address.
+   - It usually in switch.

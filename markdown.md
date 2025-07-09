@@ -1,4 +1,4 @@
-to line preview in VScode, press ctrl+shift+v
+to view preview in VScode, press ctrl+shift+v  
 to view preview pane side-by-side, press ctrl+k, then v
 
 Heading 1-6:
@@ -27,7 +27,8 @@ nested list:
         - text
             - text
 
-links:  [text](https://www.google.com)
+links:  [text](https://www.google.com)  
+links to the headers: [text](#heading)
 
 images: ![alt text](url_to_photo)
 
@@ -54,8 +55,8 @@ table:
 | text | text | text|
 | text | texttext | texttexttext|
 
-to break line:  give two spaces then enter, like amirda  
-kadesan
+to break line:  give two spaces then enter, like first line  
+second line
 
 checklist:
 - [x] asdf
